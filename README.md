@@ -16,6 +16,6 @@
 📫 How to reach me:
 
 🔗 LinkedIn: Grace Brazil
-📧 Email: gbrazil@gatech.edu
+📧 Email: gbrazil2@gatech.edu
 
 🌟 Let's connect and collaborate on innovative projects that drive progress in the field of AI and beyond
