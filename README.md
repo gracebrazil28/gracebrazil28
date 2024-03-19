@@ -7,7 +7,7 @@
 
 💬 Ask me about...
 
-📡 5G Protocol: With experience as a 5G Systems Engineer at Qualcomm, I'm ready to dive into discussions about the intricacies of 5G technology, protocols, and advancements shaping the future of telecommunications.
+📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about the intricacies of 5G technology, protocols, and advancements shaping the future of telecommunications.
 
 🤖 Basic Machine Learning Models: Whether it's supervised learning, unsupervised learning, or classification algorithms, feel free to pick my brain about the fundamentals of machine learning and how these models are applied in real-world scenarios.
 
