@@ -19,3 +19,7 @@
 📧 Email: gbrazil2@gatech.edu
 
 🌟 Let's connect and collaborate on innovative projects that drive progress in the field of AI and beyond
+
+[Link to Resume]: https://drive.google.com/file/d/172ycn1lHZfdlS_jpPAbMOb7bw9SpxfCs/view?usp=drive_link
+
+
