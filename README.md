@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Grace!
-🎓 Lifelong learner and engineer with a solid background in Electrical Engineering, currently delving deeper into Computer Science through Georgia Tech's MS program with a focus on Machine Learning.
+🎓 Lifelong learner and engineer with a undergraduate background in Electrical Engineering, currently delving deeper into Computer Science through Georgia Tech's MS program with a focus on Machine Learning.
 
 💻 Experienced in software integration and testing, my passion lies in crafting impactful and trustworthy AI/ML solutions and leveraging data-driven approaches to solve real-world problems.
 
