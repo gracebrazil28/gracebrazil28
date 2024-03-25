@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Grace!
 🎓 Lifelong learner and engineer with a solid background in Electrical Engineering, currently delving deeper into Computer Science through Georgia Tech's MS program with a focus on Machine Learning.
 
-💻 Experienced in software integration and testing, my passion lies in crafting impactful AI/ML solutions and leveraging data-driven approaches to solve real-world problems.
+💻 Experienced in software integration and testing, my passion lies in crafting impactful and trustworthy AI/ML solutions and leveraging data-driven approaches to solve real-world problems.
 
 🚀 Currently, I'm expanding my skill set by exploring AWS Cloud architecture and diving into the fundamentals of PyTorch from scratch. I thrive on hands-on learning experiences and am eager to apply these newfound skills to meaningful projects that push the boundaries of what's possible in the realm of machine learning.
 
