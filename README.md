@@ -3,7 +3,7 @@
 
 💻 Experienced in software integration and testing, my passion lies in crafting impactful and trustworthy AI/ML solutions and leveraging data-driven approaches to solve real-world problems.
 
-🚀 Currently, I'm expanding my skill set by exploring Cloud Architecture and Solutions (Amazon Web Services AWS, Google Cloud GC) and diving into the fundamentals of PyTorch from scratch. I thrive on hands-on learning experiences and am eager to apply these newfound skills to meaningful projects that push the boundaries of what's possible in the realm of machine learning.
+🚀 Currently, I'm expanding my skill set by exploring Cloud Architecture and Solutions (Amazon Web Services AWS, Google Cloud GC) and diving into the fundamentals of PyTorch from scratch. I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on Explainable AI (XAI)!
 
 💬 Ask me about...
 
