@@ -3,13 +3,13 @@
 
 💻 Experienced in software integration and testing, my passion lies in crafting impactful and trustworthy AI/ML solutions and leveraging data-driven approaches to solve real-world problems.
 
-🚀 Currently, I'm expanding my skill set by exploring Cloud Architecture and Solutions (Amazon Web Services AWS, Google Cloud GC) and diving into the fundamentals of PyTorch from scratch. I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on Explainable AI (XAI)!
+🚀 Currently, I'm expanding my skill set by exploring the Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with PyTorch and Keras API for rapid development (See Colab Notebooks). I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on Explainable AI (XAI)! More information on the research project soon.
 
 💬 Ask me about...
 
-📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about the intricacies of 5G technology, protocols, and advancements shaping the future of telecommunications.
+📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about 5G technology, protocols, and advancements shaping the future of telecommunications.
 
-🤖 Basic Machine Learning Models: Whether it's supervised learning, unsupervised learning, or classification algorithms, feel free to pick my brain about the fundamentals of machine learning and how these models are applied in real-world scenarios.
+🤖 AI Explainability: I.
 
 🏞️ Cities and Towns in Northern Spain: Planning a trip to Northern Spain in summer 2024? I've got you covered! Ask me about the best places to visit, hidden gems, and must-see attractions in this picturesque region.
 
