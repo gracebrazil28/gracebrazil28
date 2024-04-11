@@ -9,7 +9,7 @@
 
 📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about 5G technology, protocols, and advancements shaping the future of telecommunications.
 
-🤖 AI Explainability: I.
+🤖 Explainable AI: xAI is an exciting field that helps us understand how AI models make decisions, which is crucial for building trust and ensuring responsible AI development. I’m passionate about xAI and happy to discuss its applications and the importance of transparency in AI development.
 
 🏞️ Cities and Towns in Northern Spain: Planning a trip to Northern Spain in summer 2024? I've got you covered! Ask me about the best places to visit, hidden gems, and must-see attractions in this picturesque region.
 
