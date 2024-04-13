@@ -5,6 +5,8 @@
 
 🚀 Currently, I'm expanding my skill set by exploring the Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with PyTorch and Keras API for rapid development (See Colab Notebooks). I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on Explainable AI (XAI)! More information on the research project soon.
 
+🦉My research interests are trustworthy machine learning, responsible artificial intelligence, and human-machine collaboration.
+
 💬 Ask me about...
 
 📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about 5G technology, protocols, and advancements shaping the future of telecommunications.
