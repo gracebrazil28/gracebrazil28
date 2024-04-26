@@ -3,9 +3,9 @@
 
 💻 Experienced in software integration and testing, my passion lies in crafting impactful and trustworthy AI/ML solutions and leveraging data-driven approaches to solve real-world problems.
 
-🚀 Currently, I'm expanding my skill set by exploring the Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with PyTorch and Keras API for rapid development (See Colab Notebooks). I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on Explainable AI (XAI)! More information on the research project soon.
+🚀 Currently, I'm expanding my skill set by exploring the Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with PyTorch and Keras API for rapid development (See Colab Notebooks). I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on combining Cognitive AI representations of problem-solving skills with a context relevant question-answering and explanation generation capabilities of Generative AI methods. 
 
-🦉My research interests are trustworthy machine learning, responsible artificial intelligence, and human-machine collaboration.
+🦉My research interests are responsible artificial intelligence, cognitive AI representations and human-machine collaboration.
 
 💬 Ask me about...
 
