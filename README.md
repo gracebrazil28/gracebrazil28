@@ -1,9 +1,11 @@
 ### 👋 Hello, I'm Grace!
-🎓 Lifelong learner and engineer with a undergraduate background in Electrical Engineering, currently delving deeper into Computer Science through Georgia Tech's MS program with a focus on Machine Learning.
+🎓 Lifelong learner and engineer with an undergraduate background in Electrical Engineering (BSEE), currently delving deeper into Computer Science through Georgia Tech's MS program with a focus on Machine Learning (MSCS).
 
 💻 Experienced in software integration and testing, my passion lies in crafting impactful and trustworthy AI/ML solutions and leveraging data-driven approaches to solve real-world problems.
 
-🚀 Currently, I'm expanding my skill set by exploring the Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with PyTorch and Keras API for rapid development (See Colab Notebooks). I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on combining Cognitive AI representations of problem-solving skills with a context relevant question-answering and explanation generation capabilities of Generative AI methods. 
+🚀 Currently, I'm expanding my skill set by exploring the Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with PyTorch and Keras API for rapid development (See Colab Notebooks). 
+
+🔬 I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on combining Cognitive AI representations of problem-solving skills with a context relevant question-answering and explanation generation capabilities of Generative AI methods. 
 
 🦉My research interests are responsible artificial intelligence, cognitive AI representations and human-machine collaboration.
 
