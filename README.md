@@ -1,19 +1,19 @@
 ### 👋 Hello, I'm Grace!
-🎓 Lifelong learner and engineer with an undergraduate background in Electrical Engineering (BSEE), currently delving deeper into Computer Science through Georgia Tech's MS program with a focus on Machine Learning (MSCS).
+🎓I'm a current graduate student and researcher in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) to delve deeper into Machine Learning.
 
-💻 Experienced in software integration and testing, my passion lies in crafting impactful and trustworthy AI/ML solutions and leveraging data-driven approaches to solve real-world problems.
+🚀My industry experience in software integration and testing has equipped me with a solid foundation, and I'm constantly expanding my skill set by exploring Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with cutting-edge tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
-🚀 Currently, I'm expanding my skill set by exploring the Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with PyTorch and Keras API for rapid development (See Colab Notebooks). 
+✍️I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, CRA-WP will be supporting my summer research project with Dr. Ashok Goel. 
 
-🔬 I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, focusing on combining Cognitive AI representations of problem-solving skills with a context relevant question-answering and explanation generation capabilities of Generative AI methods. 
+🧠Continuing in the fall, I will be working as a graduate research assistant with the Design Intelligence Lab on the IVY Project (AI ALOE) headed by Dr. Ashok Goel. My research aims to bridge the gap between Cognitive AI's problem-solving models, specifically the TMK framework, and the context-aware question-answering and explanation generation capabilities of Generative AI. Essentially, I'll be exploring how these AI models, particularly the TMK model, can be leveraged to promote active learning in students.
 
-🦉My research interests are responsible artificial intelligence, cognitive AI representations and human-machine collaboration.
+🦉My research interests are cognitive AI representations, human-machine collaboration, responsible artificial intelligence.
 
 💬 Ask me about...
 
-📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about 5G technology, protocols, and advancements shaping the future of telecommunications.
+🤖 Cognitive Models and Explainable AI: Cognitive models serve as blueprints for building AI systems that mimic human thinking. xAI techniques then analyze these models to understand their internal workings and decision-making processes. This synergy helps us create more transparent and trustworthy AI, fostering responsible development and human-machine collaboration.
 
-🤖 Explainable AI: xAI is an exciting field that helps us understand how AI models make decisions, which is crucial for building trust and ensuring responsible AI development. I’m passionate about xAI and happy to discuss its applications and the importance of transparency in AI development.
+📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about the intricacies of 5G technology, protocols, and advancements shaping the future of telecommunications.
 
 🏞️ Cities and Towns in Northern Spain: Planning a trip to Northern Spain in summer 2024? I've got you covered! Ask me about the best places to visit, hidden gems, and must-see attractions in this picturesque region.
 
@@ -25,6 +25,5 @@
 
 🌟 Let's connect and collaborate on innovative projects that drive progress in the field of AI and beyond
 
-[Link to Resume]: https://drive.google.com/file/d/172ycn1lHZfdlS_jpPAbMOb7bw9SpxfCs/view?usp=drive_link
 
 
