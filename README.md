@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Grace!
-🎓I'm a current graduate student and researcher in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) to delve deeper into Machine Learning.
+🎓I'm a current graduate student in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) to delve deeper into Machine Learning.
 
 🚀My industry experience in software integration and testing has equipped me with a solid foundation, and I'm constantly expanding my skill set by exploring Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with cutting-edge tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
