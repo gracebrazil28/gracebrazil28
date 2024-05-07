@@ -5,7 +5,7 @@
 
 ✍️I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, CRA-WP will be supporting my summer research project. 
 
-🧠Continuing in the fall, I will be working as a graduate research assistant with the Design Intelligence Lab on the IVY Project (AI ALOE) headed by Dr. Ashok Goel. My research aims to bridge the gap between Cognitive AI's problem-solving models, specifically the TMK framework, and the context-aware question-answering and explanation generation capabilities of Generative AI. Essentially, I'll be exploring how these AI models, particularly the TMK model, can be leveraged to promote active learning in students.
+🧠Continuing in the fall, I will be working as a graduate research assistant with the Design Intelligence Lab on the IVY Project (AI ALOE) headed by Dr. Ashok Goel. 
 
 🦉My research interests are cognitive AI representations, human-machine collaboration, responsible artificial intelligence.
 
