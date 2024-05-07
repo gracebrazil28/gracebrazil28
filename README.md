@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Grace!
-🎓I'm a current graduate student in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) to delve deeper into Machine Learning.
+🎓I'm a current masters student in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) and love of mathematics to delve deeper into Machine Learning.
 
-🚀My industry experience in software integration and testing has equipped me with a solid foundation, and I'm constantly expanding my skill set by exploring Cloud Architecture and Solutions (AWS, Google Cloud) and tinkering with cutting-edge tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
+🚀🚀My industry experience in software integration and testing has equipped me with a solid foundation, and I'm constantly expanding my skill set by exploring cloud architecture and tinkering with ML tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
 ✍️I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, CRA-WP will be supporting my summer research project. 
 
@@ -15,15 +15,13 @@
 
 📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about the intricacies of 5G technology, protocols, and advancements shaping the future of telecommunications.
 
-🏞️ Cities and Towns in Northern Spain: Planning a trip to Northern Spain in summer 2024? I've got you covered! Ask me about the best places to visit, hidden gems, and must-see attractions in this picturesque region.
+🏞️ Cities and Towns in Northern Spain: Planning a trip to Northern Spain in summer 2024? I've got you covered. Ask me about the best places to visit, hidden gems, and must-see attractions in this picturesque region.
 
 📫 How to reach me:
 
 🔗 LinkedIn: Grace Brazil
 📧 Email: gbrazil2@gatech.edu
 🌎 Website: gracebrazil.tech.blog
-
-🌟 Let's connect and collaborate on innovative projects that drive progress in the field of AI and beyond
 
 
 
