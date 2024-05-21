@@ -1,9 +1,9 @@
 ### 👋 Hello, I'm Grace!
-🎓I'm a current masters student in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) and love of mathematics to delve deeper into Machine Learning, particularly the circuit-view of neural networks.
+🎓I'm a current masters student in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) and love of mathematics to delve deeper into Machine Learning.
 
 🚀My industry experience in software integration and testing has equipped me with a solid foundation, and I'm constantly expanding my skill set by exploring cloud architecture and tinkering with ML tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
-✍️I'm also thrilled to be starting a research apprenticeship with an NSF-funded program this summer, CRA-WP will be supporting my summer research project. 
+✍️I'm also thrilled have started a research apprenticeship with an NSF-funded program this summer, CRA-WP will be supporting my summer research project. 
 
 🧠Continuing in the fall, I will be working as a graduate research assistant with the Design Intelligence Lab on the IVY Project (AI ALOE) headed by Dr. Ashok Goel. 
 
