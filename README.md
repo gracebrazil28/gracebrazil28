@@ -3,8 +3,6 @@
 
 🚀My industry experience in software integration and testing has equipped me with a solid foundation, and I'm constantly expanding my skill set by exploring cloud architecture and tinkering with ML tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
-✍️I'm completing my research apprenticeship with an NSF-funded (CRA-WP) program this summer. Continuing with the project, I'm working on the IVY Project in the Design Intelligence Lab at Georgia Tech.
-
 🦉My research interests are cognitive AI representations, human-machine collaboration, responsible artificial intelligence.
 
 💬 Ask me about...
