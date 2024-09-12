@@ -11,7 +11,7 @@
 
 📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about the intricacies of 5G technology, protocols, and advancements shaping the future of telecommunications.
 
-🏞️ Cities and Towns in Northern Spain: Planning a trip to Northern Spain in wintwe 2024? I've got you covered. Ask me about the best places to visit, hidden gems, and must-see attractions in this picturesque region.
+🏞️ Cities and Towns in Northern Spain: Planning a trip to Northern Spain in winter 2024? I've got you covered. Ask me about the best places to visit, hidden gems, and must-see attractions in this picturesque region.
 
 📫 How to reach me:
 
