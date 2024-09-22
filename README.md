@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Grace!
   🎓I'm a current masters student in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) and love of mathematics to delve deeper into Machine Learning.
 
-    🎉 **I’ll be attending the Grace Hopper Conference 2024 in Philadelphia from October 8-11!**
+  🎉 **I’ll be attending the Grace Hopper Conference 2024 in Philadelphia from October 8-11!**
 
   🚀My industry experience in software integration and testing has equipped me with a solid foundation. I worked full-time at Qualcomm for nearly 4 years and interned at Intel and Motorola Solutions during undergrad.
   
