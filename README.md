@@ -5,7 +5,7 @@
 
   🚀My industry experience in software integration and testing has equipped me with a solid foundation. I worked full-time at Qualcomm for nearly 4 years and interned at Intel and Motorola Solutions during undergrad.
 
-  🧠 💻 Currently, I work as a Graduate Research Assistant at the Design Intelligence Lab, where I’m expanding my skills in backend development with AWS, building scalable solutions, and working on AI-driven projects like the IVY Chatbot Agent.
+  💻 Currently, I work as a Graduate Research Assistant at the Design Intelligence Lab, where I’m expanding my skills in backend development with AWS, building scalable solutions, and working on AI-driven projects like the IVY Chatbot Agent.
 
   🛠️I'm constantly expanding my skill set through tinkering with ML tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
