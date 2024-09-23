@@ -1,14 +1,13 @@
 ### 👋 Hello, I'm Grace!
-  🎓I'm a current masters student in Computer Science at the Georgia Institute of Technology (MSCS), I leverage my electrical engineering background (BSEE) and love of mathematics to delve deeper into Machine Learning.
+  🎓I'm a Master’s student in Computer Science at Georgia Tech, building on my electrical engineering background (BSEE) and nearly 4 years of professional experience in software testing, systems integration, and automation.
 
   🎉 **I’ll be attending the Grace Hopper Conference 2024 in Philadelphia from October 8-11!**
 
   🚀My industry experience in software integration and testing has equipped me with a solid foundation. I worked full-time at Qualcomm for nearly 4 years and interned at Intel and Motorola Solutions during undergrad.
-  
-  
-  🛠️I'm constantly expanding my skill set through tinkering with ML tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
-  🧠I currently work as a graduate research assistant with the Design Intelligence Lab on the IVY Project (AI ALOE) headed by Dr. Ashok Goel. 
+  🧠 💻 Currently, I work as a Graduate Research Assistant at the Design Intelligence Lab, where I’m expanding my skills in backend development with AWS, building scalable solutions, and working on AI-driven projects like the IVY Chatbot Agent.
+
+  🛠️I'm constantly expanding my skill set through tinkering with ML tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
   🦉My research interests are cognitive AI representations, human-machine collaboration, responsible artificial intelligence.
 
