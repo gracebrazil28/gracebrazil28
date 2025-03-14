@@ -16,10 +16,3 @@
   🤖 Developing and Deploying Agent Monitoring: While working at Design Intelligence Lab, I've worked on backend development, designing and implementing key components for the IVY Chatbot Agent. This includes the LLM-based module called MetaCognitiveAgent that queries OpenAI and utilizes Retrieval-Augmented Generation (RAG) techniques for enhanced contextual responses.
 
   🏞️ Cities and Towns in Northern Spain: Planning a trip to Northern Spain in summer 2025? I can give you some recommendations. Ask me about the best places to visit, hidden gems, and must-see attractions in this picturesque region. (Bonus: What to do in Lisbon and Porto, Portugal).
-
-📫 How to reach me:
-  🔗 LinkedIn: Grace Brazil
-  📧 Email: gbrazil2@gatech.edu
-
-
-
