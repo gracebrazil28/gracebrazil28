@@ -3,7 +3,7 @@
 
   💻 I'm a Graduate Research Assistant at the Design Intelligence Lab, where I’m expanding my skills in backend development with AWS, building scalable solutions, and working on AI-driven projects like the IVY Chatbot Agent.
 
-  ⚖️ As an IP professional, I have a strong foundation in patent law, particularly in patentability requirements under 35 U.S.C. §§ 112(a)-(f), 102, and 103. My expertise focuses on technological innovations and intellectual property in telecommunications, particularly in multiplexing (MUX) technologies.
+  ⚖️ As an IP professional, I have a strong foundation in patent law, particularly in patentability requirements under 35 U.S.C. §§ 112(a)-(f), 102, and 101. My expertise focuses on technological innovations and intellectual property in telecommunications, particularly in multiplexing (MUX) technologies.
 
   🛠️I'm constantly expanding my skill set through tinkering with ML tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
