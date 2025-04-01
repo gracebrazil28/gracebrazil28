@@ -11,7 +11,7 @@
 
 💬 Ask me about...
 
-  📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about the intricacies of 5G technology, protocols, and advancements shaping the future of telecommunications.
+  📡 5G Protocol: With experience as a 5G Systems Senior Engineer at Qualcomm, I'm ready to dive into discussions about the intricacies of 5G technology, protocols, and advancements shaping the future of telecommunications. Let's talk how your design or invention could be patentable. 
 
   🤖 Developing and Deploying Agent Monitoring: While working at Design Intelligence Lab, I've worked on backend development, designing and implementing key components for the IVY Chatbot Agent. This includes the LLM-based module called MetaCognitiveAgent that queries OpenAI and utilizes Retrieval-Augmented Generation (RAG) techniques for enhanced contextual responses.
 
