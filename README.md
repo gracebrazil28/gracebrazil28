@@ -1,10 +1,6 @@
 ### 👋 Hello, I'm Grace!
   🎓I'm a Master’s student in Computer Science at Georgia Tech, building on my electrical engineering background (BSEE) and nearly 4 years of professional experience in modem software testing, systems integration and 5G NR protocols.
 
-  💻 I'm a Graduate Research Assistant at the Design Intelligence Lab, where I’m expanding my skills in backend development with AWS, building scalable solutions, and working on AI-driven projects like the IVY Chatbot Agent.
-
-  ⚖️ As an IP professional, I have a strong foundation in patent law, particularly in patentability requirements under 35 U.S.C. §§ 112(a)-(f), 102, and 101. My expertise focuses on technological innovations and intellectual property in telecommunications, particularly in multiplexing (MUX) technologies.
-
   🛠️I'm constantly expanding my skill set through tinkering with ML tools like PyTorch and Keras API for rapid development (check out my Colab Notebooks).
 
   🦉My research interests are cognitive AI representations, human-machine collaboration, responsible artificial intelligence.
