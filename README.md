@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Grace!
 
-⚡ Electrical engineer by professional training (5G Engineer) and education (BSEE '20).
+⚡ Electrical engineer by profession (5G Engineer) and education (BSEE '20).
 
 ## 🚀 Currently Exploring & Learning
 
