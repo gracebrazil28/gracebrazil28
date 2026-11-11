@@ -19,7 +19,7 @@
 ### 🏃‍♀️ Outdoor & Physical
 
 - 🏅 **Endurance Racing:** Training for long-distance events
-- 🏕️ **Wilderness Survival:** Primitive bushcraft, orienteering, and wilderness navigation
+- 🏕️ **Wilderness Survival:** Technical trail climbs, orienteering, and wilderness navigation
 
 </td>
 </tr>
