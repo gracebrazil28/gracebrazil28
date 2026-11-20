@@ -9,7 +9,7 @@
 <td valign="top" width="50%">
 
 ### 💻 Technical & Academic
-- 📡 **Radio Astronomy:** Signal processing, radio telescopes, and cosmic spectrum analysis
+- 📡 **Radio Astronomy:** Signal processing, radio telescopes, and cosmic spectrum analysis (https://gracebrazil28.github.io/radioskyjournal/)
 - 🌎 **Spanish:** Leveling up from **A2 → B1** 🇪🇸
 
 </td>
